@@ -11,8 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/','PagesController@root')->name('root');
 
 Route::get('/config','ConfigController@config')->name('config');
