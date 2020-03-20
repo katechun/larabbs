@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f3958f6-ec12-4293-ab9c-8f7cd9942d79" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/root.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/shared/_messages.blade.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/larabbs.iml" afterPath="$PROJECT_DIR$/.idea/larabbs.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/helpers.php" afterPath="$PROJECT_DIR$/app/helpers.php" />
-      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" afterPath="$PROJECT_DIR$/public/mix-manifest.json" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" afterPath="$PROJECT_DIR$/resources/sass/app.scss" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" afterPath="$PROJECT_DIR$/webpack.mix.js" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -128,8 +118,18 @@
       <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1033">
-              <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.mix.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.mix.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -164,6 +164,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" />
         <option value="$PROJECT_DIR$/resources/views/pages/root.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/webpack.mix.js" />
         <option value="$PROJECT_DIR$/resources/sass/app.scss" />
       </list>
     </option>
@@ -271,8 +272,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="469" />
-    <option name="y" value="136" />
+    <option name="x" value="1150" />
+    <option name="y" value="284" />
     <option name="width" value="1644" />
     <option name="height" value="1034" />
   </component>
@@ -411,15 +412,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584675747154</updated>
-      <workItem from="1584675748258" duration="3297000" />
+      <workItem from="1584675748258" duration="4093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3297000" />
+    <option name="totallyTimeSpent" value="4093000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="469" y="136" width="1644" height="1034" extended-state="0" />
+    <frame x="1150" y="284" width="1644" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -502,25 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <marker date="1584682474321" expanded="true" signature="30:50" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="285:299" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="323:341" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="405:425" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="487:502" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="526:543" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="592:610" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="628:637" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="665:682" ph="..." />
-            <marker date="1584682474321" expanded="true" signature="724:742" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/_header.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -582,10 +564,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <marker date="1584682474321" expanded="true" signature="30:50" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="285:299" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="323:341" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="405:425" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="487:502" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="526:543" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="592:610" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="628:637" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="665:682" ph="..." />
+            <marker date="1584682474321" expanded="true" signature="724:742" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1033">
-          <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
